@@ -1,9 +1,9 @@
 # MemeHoursApp
 An android application in which users can enjoy unlimited number of memes and also can share them with friends.
 # Tech Stacks Used
-* Volley library
-* Glide library
-* Api Call
+* Volley library for Json parsing
+* Glide library for image loading
+* API Call
 * Intents
 * Material Design Components
 # User Interface
